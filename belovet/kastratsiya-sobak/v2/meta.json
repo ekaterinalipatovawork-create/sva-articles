@@ -1,0 +1,19 @@
+{
+  "project_id": "belovet",
+  "article_id": "belovet-t-a5012657c9ea",
+  "version": 2,
+  "target_url": "https://belovet.ru/stati/kastratsiya-sobak/",
+  "article_sha256": "73b2afe9a03b86bb304b295d269a1f5f7953434f8891a7401300cf40df275739",
+  "image_sha256": "27b44ec7d0ddf9b9996e0b93d5364466384de8c3edfb5eaa1d323b6a962c801b",
+  "image_path": "/assets/home/dog-nose.jpg",
+  "image_license": "Фото с сайта belovet.ru, разрешено владельцем сайта для статей (2026-11-21)",
+  "planned_date": "2026-11-22",
+  "warnings": [
+    "Изменчивые сведения (F4) проверены 2026-11-21",
+    "contradiction: В быту эти слова часто смешивают, и многие называют кастрацией любую операцию та",
+    "unsupported_claim: Эта позиция пересказана не из первоисточников, поэтому для своей собаки опирайте",
+    "unsupported_claim: Перечень дан для ознакомления: он взят из одного источника, а наличие показаний ",
+    "unsupported_claim: Поэтому возраст операции обсуждают особенно внимательно, прежде всего для крупны",
+    "unsupported_claim: Доводы «за» стоит сопоставить с рисками наркоза и самой операции, особенностями "
+  ]
+}
