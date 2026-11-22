@@ -1,0 +1,19 @@
+{
+  "project_id": "belovet",
+  "article_id": "belovet-t-f83c20e5d7db",
+  "version": 1,
+  "target_url": "https://belovet.ru/stati/sterilizaciya-koshki/",
+  "article_sha256": "7354c4cee7fe6dab169af8731c073b2e7c69e1ef761cac4d44e1201375146e7f",
+  "image_sha256": "346b411084d20260805d0b37514ae042f06f4b40f67049a7fa402e7ef11dc37c",
+  "image_path": "/assets/home/cat-belly.jpg",
+  "image_license": "Фото с сайта belovet.ru, разрешено владельцем сайта для статей (2026-11-21)",
+  "planned_date": "2026-11-23",
+  "warnings": [
+    "Изменчивые сведения (F11, F12, F14) проверены 2026-11-22",
+    "unsupported_claim: Выбор метода делает хирург после осмотра кошки.",
+    "unsupported_claim: Конкретный возраст для операции в России определяет врач с учётом здоровья и вес",
+    "unsupported_claim: Это привычный способ, и выбор в его пользу не означает, что что-то делается «хуж",
+    "contradiction: В обзоре по собакам при этом указано, что преимущества лапароскопии для кошек по",
+    "unsupported_claim: Техника у разных хирургов и клиник различается."
+  ]
+}
