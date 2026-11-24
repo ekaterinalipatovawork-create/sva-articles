@@ -1,0 +1,19 @@
+{
+  "project_id": "psy-berdnikova",
+  "article_id": "psy-berdnikova-t-38a9b665e96c",
+  "version": 1,
+  "target_url": "https://psy-berdnikova.ru/stati/psihologiya-chto-eto-i-chem-pomogaet/",
+  "article_sha256": "3680dd4cba3ed46a5cb6efb2a2244323395b55c550cffcbad5b022fb293c1de6",
+  "image_sha256": "667876a1d9abc9b51727a0c3261a6f312639244792a519cd74c0b0c02e4d38a6",
+  "image_path": "/assets/stati/photos/pexels-9064323.jpg",
+  "image_license": "Pexels License (бесплатно, без указания автора), фото: RDNE Stock project, https://www.pexels.com/photo/9064323/",
+  "planned_date": "2026-11-25",
+  "warnings": [
+    "Изменчивые сведения (F1, F2, F3, F4, F7, F9, F19) проверены 2026-11-24",
+    "unsupported_claim: Я принимаю в Туле, на проспекте Ленина (точный адрес указан на сайте), и онлайн;",
+    "unsupported_claim: Если нужны медикаменты, их подбирает врач-психиатр или психотерапевт после очног",
+    "unsupported_claim: Знание о том, как устроено мышление, не отменяет того, что в кабинете я работаю ",
+    "unsupported_claim: Психоанализ** — внимание к внутренним переживаниям и тому, как прошлое влияет на",
+    "unsupported_claim: Такие записи помогают заметить закономерности, а на консультации — быстрее объяс"
+  ]
+}
