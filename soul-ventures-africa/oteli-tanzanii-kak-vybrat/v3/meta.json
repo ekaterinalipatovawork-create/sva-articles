@@ -1,0 +1,18 @@
+{
+  "project_id": "soul-ventures-africa",
+  "article_id": "soul-ventures-africa-t-e481dcd55588",
+  "version": 3,
+  "target_url": "https://soulventuresafrica.ru/blog/oteli-tanzanii-kak-vybrat/",
+  "article_sha256": "69a5d6951666d12ad9648832d218cd28963c80e974ac27afb6f5486cb94a6440",
+  "image_sha256": "603bc7adb6adf5d4ccb9a953e138db0570aee7163238dce4c65ad82daf361e4c",
+  "image_path": "/assets/img/hotel-1.jpg",
+  "image_license": "Изображение сайта проекта; использование разрешено владельцем (2026-11-21)",
+  "planned_date": "2026-11-26",
+  "warnings": [
+    "unsupported_claim: Парк самолётов зависит от перевозчика и маршрута и может меняться, а расписание ",
+    "unsupported_claim: Выигрыш во времени зависит от маршрута и погоды.",
+    "unsupported_claim: Серенгети, Нгоронгоро, Руаха и Нийерере (Селус) устроены по-разному, и от этого ",
+    "unsupported_claim: Небольшой отель обычно даёт больше уединения, крупный курорт — больше инфраструк",
+    "vague: Район и логистика важнее красивого описания: ночёвка ближе к нужной части парка "
+  ]
+}
