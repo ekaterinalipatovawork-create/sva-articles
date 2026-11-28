@@ -1,0 +1,16 @@
+{
+  "project_id": "soul-ventures-africa",
+  "article_id": "soul-ventures-africa-t-27833a90c7f8",
+  "version": 1,
+  "target_url": "https://soulventuresafrica.ru/blog/fakty-o-serengeti/",
+  "article_sha256": "cecfd9e3d47828f81c46f36c75a40e9fc35b41d64e1508b48767938a8df8b6bc",
+  "image_sha256": "825c67031567b00f9af58a45573f1c3a203936b8903ef7937f533753ef05981e",
+  "image_path": "/assets/img/tours-tz-3.jpg",
+  "image_license": "Изображение сайта проекта; использование разрешено владельцем (2026-11-21)",
+  "planned_date": "2026-11-29",
+  "warnings": [
+    "Возможная каннибализация с https://soulventuresafrica.ru/blog/serengeti-natsionalnyj-park/ (сходство 0.45)",
+    "Изменчивые сведения (F8) проверены 2026-11-28",
+    "Автоматически удалено неподтверждённых или повторяющихся предложений: 3"
+  ]
+}
